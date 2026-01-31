@@ -1,2 +1,2 @@
 # Certificates
-Certificates earned from Programming Advices School, showcasing my completed courses and achievements.
+Certificates earned from Programming Advices School.
